@@ -1,2 +1,2 @@
-# deparment
+# department
 workers
